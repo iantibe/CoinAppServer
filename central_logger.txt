@@ -1,0 +1,211 @@
+2022-01-21 20:30:31,529 - INFO - Logon - login - 42 - ceaa299e-3bf3-4385-a1ea-a8c49c000b34 has logged on Refer to database for except time and date
+2022-01-21 20:30:31,529 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 20:30:31] "POST /login HTTP/1.1" 200 -
+2022-01-21 20:31:03,518 - INFO - Logon - login - 42 - ca07a2c5-d4db-41f6-b765-3a6aca7c84d3 has logged on Refer to database for except time and date
+2022-01-21 20:31:03,518 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 20:31:03] "POST /login HTTP/1.1" 200 -
+2022-01-21 20:31:41,423 - INFO - Logon - login - 42 - cf1ec7bf-f3c1-4c6f-90c9-2979c352d35e has logged on Refer to database for except time and date
+2022-01-21 20:31:41,423 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 20:31:41] "POST /login HTTP/1.1" 200 -
+2022-01-21 20:32:28,755 - INFO - Logon - login - 42 - d44dc7b7-4c90-4437-91ff-818fcae49c9e has logged on Refer to database for except time and date
+2022-01-21 20:32:28,755 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 20:32:28] "POST /login HTTP/1.1" 200 -
+2022-01-21 21:04:34,315 - INFO - Logon - logout - 59 - d44dc7b7-4c90-4437-91ff-818fcae49c9e has logged out. Refer to database for exact time
+2022-01-21 21:04:34,315 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:04:34] "POST /logout HTTP/1.1" 200 -
+2022-01-21 21:06:21,870 - INFO - Logon - logout - 59 - cf1ec7bf-f3c1-4c6f-90c9-2979c352d35e has logged out. Refer to database for exact time
+2022-01-21 21:06:21,870 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:06:21] "POST /logout HTTP/1.1" 200 -
+2022-01-21 21:08:49,378 - INFO - Logon - validatesession - 77 - Session: cf1ec7bf-f3c1-4c6f-90c9-2979c352d35e has been rejected
+2022-01-21 21:08:49,378 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:08:49] "POST /validate HTTP/1.1" 200 -
+2022-01-21 21:10:54,218 - INFO - Logon - validatesession - 77 - Session: cf1ec7bf-f3c1-4c6f-90c9-2979c352d35e has been rejected
+2022-01-21 21:10:54,218 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:10:54] "POST /validate HTTP/1.1" 200 -
+2022-01-21 21:22:41,301 - INFO - Logon - validatesession - 77 - Session: cf1ec7f-f3c1-4c6f-90c9-2979c352d35e has been rejected
+2022-01-21 21:22:41,301 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:22:41] "POST /validate HTTP/1.1" 200 -
+2022-01-21 21:23:10,746 - INFO - Logon - validatesession - 73 - Session: ca07a2c5-d4db-41f6-b765-3a6aca7c84d3 has been validated
+2022-01-21 21:23:10,746 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:23:10] "POST /validate HTTP/1.1" 200 -
+2022-01-21 21:58:23,752 - INFO - Logon - validatesession - 73 - Session: ca07a2c5-d4db-41f6-b765-3a6aca7c84d3 has been validated
+2022-01-21 21:58:23,752 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 21:58:23] "POST /validate HTTP/1.1" 200 -
+2022-01-21 22:00:29,155 - INFO - Logon - validatesession - 77 - Session: ca07a2c5-d4db-41f6-b765-3a6ca7c84d3 has been rejected
+2022-01-21 22:00:29,155 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:00:29] "POST /validate HTTP/1.1" 200 -
+2022-01-21 22:01:12,433 - INFO - Logon - validatesession - 77 - Session: ca07a2c5-d4db-41f6-b765-3a6ca7c84d3 has been rejected
+2022-01-21 22:01:12,433 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:01:12] "POST /validate HTTP/1.1" 200 -
+2022-01-21 22:02:03,008 - INFO - Logon - validatesession - 77 - Session: ca07a2c5-d4db-41f6-b765-3a6ca7c84d3 has been rejected
+2022-01-21 22:02:03,008 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:02:03] "POST /validate HTTP/1.1" 200 -
+2022-01-21 22:25:06,636 - INFO - Logon - validatesession - 77 - Session: cf1ec7bf-f3c1-4c6f-90c9-2979c352d35e has been rejected
+2022-01-21 22:25:06,636 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:25:06] "POST /validate HTTP/1.1" 200 -
+2022-01-21 22:26:09,301 - INFO - Logon - validatesession - 73 - Session: ca07a2c5-d4db-41f6-b765-3a6aca7c84d3 has been validated
+2022-01-21 22:26:09,301 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:26:09] "POST /validate HTTP/1.1" 200 -
+2022-01-21 22:27:39,227 - INFO - Logon - login - 42 - 784876d7-a073-4557-971f-6faf9254cb82 has logged on Refer to database for except time and date
+2022-01-21 22:27:39,227 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:27:39] "POST /login HTTP/1.1" 200 -
+2022-01-21 22:29:29,739 - INFO - DatabaseLogon - sessionexist - 132 - Session: 784876d7-a073-4557-971f-6faf9254cb82Has automatically been logged out due to an expired session
+2022-01-21 22:29:29,739 - INFO - Logon - validatesession - 77 - Session: 784876d7-a073-4557-971f-6faf9254cb82 has been rejected
+2022-01-21 22:29:29,739 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 22:29:29] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:45:51,005 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-21 23:45:51,008 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:45:51] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:46:30,162 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a411e0 has been rejected
+2022-01-21 23:46:30,163 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:46:30] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:46:45,257 - INFO - Logon - validatesession - 77 - Session: 55 has been rejected
+2022-01-21 23:46:45,258 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:46:45] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:46:58,049 - ERROR - Logon - validatesession - 85 - Exception in final except clause of validatesession
+Traceback (most recent call last):
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\Logon.py", line 72, in validatesession
+    if self.database.sessionexist(datainput.session):
+AttributeError: 'NoneType' object has no attribute 'session'
+2022-01-21 23:46:58,052 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:46:58] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:47:04,455 - ERROR - Logon - validatesession - 85 - Exception in final except clause of validatesession
+Traceback (most recent call last):
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\Logon.py", line 72, in validatesession
+    if self.database.sessionexist(datainput.session):
+AttributeError: 'NoneType' object has no attribute 'session'
+2022-01-21 23:47:04,456 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:47:04] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:48:44,293 - ERROR - Logon - validatesession - 85 - Exception in final except clause of validatesession
+Traceback (most recent call last):
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\Logon.py", line 72, in validatesession
+    if self.database.sessionexist(datainput.session):
+AttributeError: 'NoneType' object has no attribute 'session'
+2022-01-21 23:48:44,294 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:48:44] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:50:38,490 - ERROR - Logon - validatesession - 85 - Exception in final except clause of validatesession
+Traceback (most recent call last):
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\Logon.py", line 72, in validatesession
+    if self.database.sessionexist(datainput.session):
+AttributeError: 'NoneType' object has no attribute 'session'
+2022-01-21 23:50:38,491 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:50:38] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:51:06,523 - ERROR - Logon - validatesession - 85 - Exception in final except clause of validatesession
+Traceback (most recent call last):
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\Logon.py", line 72, in validatesession
+    if self.database.sessionexist(datainput.session):
+AttributeError: 'NoneType' object has no attribute 'session'
+2022-01-21 23:51:06,523 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:51:06] "POST /validate HTTP/1.1" 200 -
+2022-01-21 23:52:33,417 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-21 23:52:33,418 - INFO - _internal - _log - 225 - 127.0.0.1 - - [21/Jan/2022 23:52:33] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:07:57,596 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:07:57,596 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:07:57] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:08:15,235 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:08:15,235 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:08:15] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:46,766 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:46,767 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:46] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:47,759 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:47,760 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:47] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:48,746 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:48,746 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:48] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:49,635 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:49,636 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:49] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:50,493 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:50,494 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:50] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:51,318 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:51,318 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:51] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:52,116 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:52,117 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:52] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:52,933 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:52,933 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:52] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:53,545 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:53,545 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:53] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:54,182 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:54,183 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:54] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:54,886 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:54,887 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:54] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:55,485 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:55,486 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:55] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:56,126 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:56,127 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:56] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:56,619 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:56,620 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:56] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:57,192 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:57,193 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:57] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:57,595 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:57,596 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:57] "POST /validate HTTP/1.1" 200 -
+2022-01-22 00:09:58,092 - INFO - Logon - validatesession - 77 - Session: eb4b3799-6b5c-4e6d-8d50-0216a4121e0 has been rejected
+2022-01-22 00:09:58,092 - INFO - _internal - _log - 225 - 127.0.0.1 - - [22/Jan/2022 00:09:58] "POST /validate HTTP/1.1" 200 -
+2022-01-25 11:28:49,216 - INFO - Logon - login - 48 - 3b77169b-1d35-457f-90db-cb60ce1ab7ae has logged on Refer to database for except time and date
+2022-01-25 11:52:45,151 - INFO - Logon - login - 47 - fb3490a8-bb3f-4dfa-a9c0-b23468f88fda has logged on Refer to database for except time and date
+2022-01-25 11:52:45,151 - ERROR - Logon - login - 58 - Exception in final except clause of login method
+Traceback (most recent call last):
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 48, in login
+    return self.generatejson.generatejson(self.generateloginobject(0, str(sessionid)))
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 124, in generateloginobject
+    responseobject = jsonresponsedefine.jsonlogin.jsonlogin()
+AttributeError: module 'jsonresponsedefine' has no attribute 'jsonlogin'
+2022-01-25 11:57:00,096 - INFO - Logon - login - 49 - 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has logged on Refer to database for except time and date
+2022-01-25 11:57:00,096 - ERROR - Logon - login - 60 - Exception in final except clause of login method
+Traceback (most recent call last):
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 50, in login
+    return self.generatejson.generatejson(self.generateloginobject(0, str(sessionid)))
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 126, in generateloginobject
+    responseobject = jsonresponsedefine.jsonlogin.jsonlogin(JsonObject)
+AttributeError: module 'jsonresponsedefine' has no attribute 'jsonlogin'
+2022-01-25 11:57:23,142 - INFO - Logon - login - 49 - 46bc0278-2d80-4884-b112-bbdda6c39980 has logged on Refer to database for except time and date
+2022-01-25 11:57:23,142 - ERROR - Logon - login - 60 - Exception in final except clause of login method
+Traceback (most recent call last):
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 50, in login
+    return self.generatejson.generatejson(self.generateloginobject(0, str(sessionid)))
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 126, in generateloginobject
+    responseobject = jsonresponsedefine.jsonlogin.jsonlogin()
+AttributeError: module 'jsonresponsedefine' has no attribute 'jsonlogin'
+2022-01-25 12:00:08,622 - INFO - Logon - login - 49 - c772191b-a0c4-4cd4-a8e1-19f6e29dc8e4 has logged on Refer to database for except time and date
+2022-01-25 12:00:08,622 - ERROR - Logon - login - 60 - Exception in final except clause of login method
+Traceback (most recent call last):
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 50, in login
+    return self.generatejson.generatejson(self.generateloginobject(0, str(sessionid)))
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/Logon.py", line 126, in generateloginobject
+    responseobject = jsonresponsedefine.jsonlogin.jsonlogin
+AttributeError: module 'jsonresponsedefine' has no attribute 'jsonlogin'
+2022-01-25 12:20:22,810 - INFO - Logon - login - 57 - 1e1dd9a2-3ace-4101-bad6-61f98dd55d1c has logged on Refer to database for except time and date
+2022-01-25 12:21:36,364 - INFO - Logon - validatesession - 94 - Session: plant has been rejected
+2022-01-25 12:22:18,291 - INFO - Logon - validatesession - 90 - Session: 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has been validated
+2022-01-25 12:22:42,634 - INFO - Logon - logout - 75 - 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has logged out. Refer to database for exact time
+2022-01-25 22:18:36,499 - INFO - Logon - validatesession - 94 - Session: 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has been rejected
+2022-01-25 22:19:07,345 - INFO - Logon - validatesession - 94 - Session: 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has been rejected
+2022-01-31 20:50:17,303 - INFO - APIBase - _checksessionexist - 39 - Session: 1e1dd9a2-3ace-4101-bad6-61f98dd55d1cHas automatically been logged out due to an expired session
+2022-01-31 20:50:17,303 - INFO - APIBase - validateregularsession - 50 - Session: 1e1dd9a2-3ace-4101-bad6-61f98dd55d1c has been rejected
+2022-01-31 20:51:12,301 - INFO - APIBase - _checksessionexist - 39 - Session: c772191b-a0c4-4cd4-a8e1-19f6e29dc8e4Has automatically been logged out due to an expired session
+2022-01-31 20:51:12,301 - INFO - APIBase - validateregularsession - 50 - Session: c772191b-a0c4-4cd4-a8e1-19f6e29dc8e4 has been rejected
+2022-01-31 20:55:17,918 - ERROR - APILogout - activate - 34 - Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/APILogout.py", line 25, in activate
+    datainput = self._generateLogoutDataobject(json)
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/APILogout.py", line 46, in _generateLogoutDataobject
+    return self.generatedataobjectcomponent.generateDataObject(js, jsonlogout_input)
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\GenerateDataObjectComponent.py", line 12, in generateDataObject
+    return Pykson().from_json(json, dataobject)
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\lib\site-packages\pykson\__init__.py", line 993, in from_json
+    data = json.loads(data)
+  File "C:\Users\Ian Tibe\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Ian Tibe\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Ian Tibe\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-01-31 21:13:06,088 - INFO - APILogout - activate - 27 - 46bc0278-2d80-4884-b112-bbdda6c39980 has logged out. Refer to database for exact time
+2022-01-31 21:21:15,789 - INFO - APILogin - activate - 40 - b62f485d-cdea-4c0e-bce3-a9645fe6e391 has logged on Refer to database for except time and date
+2022-01-31 21:21:15,789 - ERROR - APILogin - activate - 56 - Exception in final except clause of login method
+Traceback (most recent call last):
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/APILogin.py", line 33, in activate
+    datainput = self._generateLoginDataobject(json)
+  File "C:/Users/Ian Tibe/ownCloud/Personal_code/beginapicoin/APILogin.py", line 70, in _generateLoginDataobject
+    return self.generatedataobjectcomponent.generateDataObject(js, jsonlogin_input)
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\GenerateDataObjectComponent.py", line 12, in generateDataObject
+    return Pykson().from_json(json, dataobject)
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\lib\site-packages\pykson\__init__.py", line 995, in from_json
+    return self._from_json_dict(data, cls, accept_unknown)
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\lib\site-packages\pykson\__init__.py", line 969, in _from_json_dict
+    return sub_type(accept_unknown=accept_unknown, extra_attributes=extra_attributes, **data_copy)
+  File "C:\Users\Ian Tibe\ownCloud\Personal_code\beginapicoin\lib\site-packages\pykson\__init__.py", line 711, in my_custom_init
+    " val:" + str(value) + " type(value):" + str(type(value)))
+Exception: value given in instance initialization but was not defined in model class (<class 'jsonincommingdefine.jsonlogin.jsonlogin'>)as Field. key:session val:46bc0278-2d80-4884-b112-bbdda6c39980 type(value):<class 'str'>
+2022-01-31 21:24:54,141 - INFO - APILogin - activate - 40 - 31590437-2929-4238-8b93-b3802bad1dad has logged on Refer to database for except time and date
+2022-01-31 21:39:06,518 - INFO - APIBase - validateregularsession - 50 - Session: 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has been rejected
+2022-01-31 21:39:06,847 - INFO - APINewUser - activate - 34 - User ftibe has been created
+2022-01-31 21:40:25,813 - INFO - APIBase - validateregularsession - 50 - Session: 4bbe7b23-1b5e-44f6-a9c0-f7c9fe0b234f has been rejected
+2022-01-31 21:40:26,157 - INFO - APINewUser - activate - 34 - User ftibe has been created
+2022-01-31 21:42:17,934 - INFO - APILogin - activate - 40 - 449eb0b6-c39f-48af-8a82-b60c5ab88ed0 has logged on Refer to database for except time and date
+2022-01-31 21:43:49,603 - INFO - APILogout - activate - 27 - 449eb0b6-c39f-48af-8a82-b60c5ab88ed0 has logged out. Refer to database for exact time
+2022-01-31 22:32:24,566 - INFO - APILogin - activate - 41 - 1b63009e-7fe2-45ff-a787-dc5a799248be has logged on Refer to database for except time and date
+2022-01-31 22:34:46,671 - INFO - APILogout - activate - 28 - 1b63009e-7fe2-45ff-a787-dc5a799248be has logged out. Refer to database for exact time
+2022-02-08 23:03:06,797 - INFO - DatabaseTransactions - insertTransactions - 69 - Transaction for coin id: 27 added
+2022-02-08 23:08:38,682 - INFO - DatabaseTransactions - insertCoinAndTransaction - 47 - Coinid 34 and transaction added
+2022-02-08 23:12:32,665 - INFO - DatabaseTransactions - insertCoinAndTransaction - 47 - Coinid 34 and transaction added
+2022-02-08 23:16:59,635 - INFO - DatabaseTransactions - insertCoinAndTransaction - 48 - Coinid 34 and transaction added
+2022-02-08 23:18:23,242 - INFO - DatabaseTransactions - insertTransactions - 71 - Transaction for coin id: 27 added
+2022-02-10 20:54:01,893 - INFO - APILogout - activate - 24 - Login authorization header 4bbe7b23-1b5e4f6-a9c0-f7c9fe0b234f is invalid
+2022-02-10 20:54:45,860 - INFO - APILogout - activate - 24 - Login authorization header 4- is invalid
+2022-02-10 20:55:43,608 - INFO - APILogout - activate - 24 - Login authorization header 4- is invalid
+2022-02-10 20:56:46,512 - INFO - APINewUser - activate - 27 - Login authorization header 4bbe7b23-1b5e-a9c0-f7c9fe0b234f is invalid
+2022-02-10 21:54:11,598 - INFO - APILogout - activate - Login authorization header 4- is invalid
+2022-02-12 20:21:33,715 - INFO - DatabaseTransactions - insertTransactions - Transaction for coin id: 27 added
+2022-02-12 21:10:21,236 - INFO - DatabaseTransactions - insertCoinAndTransaction - Coinid 1 and transaction added
